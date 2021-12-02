@@ -1,5 +1,5 @@
 # Calculadora em C#
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/exemplo-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/Calculadora-CSharp/blob/main/LICENSE) 
 
 # Sobre o projeto
 
