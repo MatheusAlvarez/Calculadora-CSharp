@@ -8,7 +8,7 @@ Calculadora desenvolvida em C# que realiza operações básicas como: Soma, Subt
 O projeto conta com a utilização de interface gráfica.
 
 ## Interface Gráfica
-![Calc](https://github.com/MatheusAlvarez/exemplo-readme/blob/main/_assets/calc1.PNG) ![Mobile 2](https://github.com/MatheusAlvarez/exemplo-readme/blob/main/_assets/calc2.PNG)
+![Calc](https://github.com/MatheusAlvarez/Calculadora-CSharp/blob/main/_assets/calc1.PNG) ![Mobile 2](https://github.com/MatheusAlvarez/Calculadora-CSharp/blob/main/_assets/calc2.PNG)
 
 # Tecnologias utilizadas
 - C#
